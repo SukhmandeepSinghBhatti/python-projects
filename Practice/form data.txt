@@ -1,0 +1,1 @@
+The name of the student is & "C:/Users/win 10/AppData/Local/Programs/Python/Python311/python.exe" "d:/Coding/python projects/Practice/try.py" son of  student of  class and his marks is .

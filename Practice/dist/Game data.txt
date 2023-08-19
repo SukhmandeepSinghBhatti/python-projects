@@ -1,0 +1,4 @@
+The name of the player is Sukhmandeep Singh and its score is 8. 
+The name of the player is Harmandeep Singh and its score is 1. 
+The name of the player is Sukhmandeep Singh and its score is 8. 
+The name of the player is Harmandeep Singh and its score is 10. 

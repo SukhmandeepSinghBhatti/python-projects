@@ -1,0 +1,772 @@
+('D:\\Coding\\python projects\\Real Projects\\exe files\\build\\A I  '
+ 'Assistance\\A I  Assistance.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True},
+ [('PYZ-00.pyz',
+   'D:\\Coding\\python projects\\Real Projects\\exe files\\build\\A I  '
+   'Assistance\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'D:\\Coding\\python projects\\Real Projects\\exe files\\build\\A I  '
+   'Assistance\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'D:\\Coding\\python projects\\Real Projects\\exe files\\build\\A I  '
+   'Assistance\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'D:\\Coding\\python projects\\Real Projects\\exe files\\build\\A I  '
+   'Assistance\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'D:\\Coding\\python projects\\Real Projects\\exe files\\build\\A I  '
+   'Assistance\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'D:\\Coding\\python projects\\Real Projects\\exe files\\build\\A I  '
+   'Assistance\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_win32comgenpy',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_win32comgenpy.py',
+   'PYSOURCE'),
+  ('pyi_rth_pywintypes',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\pyi_rth_pywintypes.py',
+   'PYSOURCE'),
+  ('pyi_rth_pythoncom',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\pyi_rth_pythoncom.py',
+   'PYSOURCE'),
+  ('A I  Assistance',
+   'D:\\Coding\\python projects\\Real Projects\\exe files\\A I  Assistance.py',
+   'PYSOURCE'),
+  ('python311.dll',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\python311.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('libopenblas64__v0.3.23-gcc_10_3_0.dll',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\.libs\\libopenblas64__v0.3.23-gcc_10_3_0.dll',
+   'BINARY'),
+  ('pywin32_system32\\pythoncom311.dll',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pywin32_system32\\pythoncom311.dll',
+   'BINARY'),
+  ('pywin32_system32\\pywintypes311.dll',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pywin32_system32\\pywintypes311.dll',
+   'BINARY'),
+  ('win32\\win32trace.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32\\win32trace.pyd',
+   'EXTENSION'),
+  ('Pythonwin\\win32ui.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\Pythonwin\\win32ui.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('win32\\_win32sysloader.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32\\_win32sysloader.pyd',
+   'EXTENSION'),
+  ('win32\\win32api.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32\\win32api.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('markupsafe\\_speedups.cp311-win_amd64.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\markupsafe\\_speedups.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('win32com\\shell\\shell.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32comext\\shell\\shell.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingft.cp311-win_amd64.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\_imagingft.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_webp.cp311-win_amd64.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\_webp.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingtk.cp311-win_amd64.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\_imagingtk.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingcms.cp311-win_amd64.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\_imagingcms.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\core\\_multiarray_tests.cp311-win_amd64.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\_multiarray_tests.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\core\\_multiarray_umath.cp311-win_amd64.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\_multiarray_umath.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('win32\\win32pdh.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32\\win32pdh.pyd',
+   'EXTENSION'),
+  ('numpy\\linalg\\lapack_lite.cp311-win_amd64.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\linalg\\lapack_lite.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\mtrand.cp311-win_amd64.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\random\\mtrand.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_sfc64.cp311-win_amd64.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\random\\_sfc64.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_philox.cp311-win_amd64.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\random\\_philox.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_pcg64.cp311-win_amd64.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\random\\_pcg64.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_mt19937.cp311-win_amd64.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\random\\_mt19937.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\bit_generator.cp311-win_amd64.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\random\\bit_generator.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_generator.cp311-win_amd64.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\random\\_generator.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_bounded_integers.cp311-win_amd64.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\random\\_bounded_integers.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_common.cp311-win_amd64.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\random\\_common.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\fft\\_pocketfft_internal.cp311-win_amd64.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\fft\\_pocketfft_internal.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\linalg\\_umath_linalg.cp311-win_amd64.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\linalg\\_umath_linalg.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('_cffi_backend.cp311-win_amd64.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\_cffi_backend.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imaging.cp311-win_amd64.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\_imaging.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('_elementtree.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('simplejson\\_speedups.cp311-win_amd64.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\simplejson\\_speedups.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md__mypyc.cp311-win_amd64.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\charset_normalizer\\md__mypyc.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md.cp311-win_amd64.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\charset_normalizer\\md.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('yarl\\_quoting_c.cp311-win_amd64.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yarl\\_quoting_c.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('multidict\\_multidict.cp311-win_amd64.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\multidict\\_multidict.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('aiohttp\\_http_writer.cp311-win_amd64.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\aiohttp\\_http_writer.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('aiohttp\\_http_parser.cp311-win_amd64.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\aiohttp\\_http_parser.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('frozenlist\\_frozenlist.cp311-win_amd64.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\frozenlist\\_frozenlist.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('aiohttp\\_helpers.cp311-win_amd64.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\aiohttp\\_helpers.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('aiohttp\\_websocket.cp311-win_amd64.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\aiohttp\\_websocket.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('_uuid.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_uuid.pyd',
+   'EXTENSION'),
+  ('pyaudio\\_portaudio.cp311-win_amd64.pyd',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyaudio\\_portaudio.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('Pythonwin\\mfc140u.dll',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\Pythonwin\\mfc140u.dll',
+   'BINARY'),
+  ('libffi-8.dll',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\libffi-8.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'D:\\Coding\\python projects\\Real Projects\\exe files\\build\\A I  '
+   'Assistance\\base_library.zip',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\big-black\\pretty.css',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\big-black\\pretty.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isomfrk.txt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isomfrk.txt',
+   'DATA'),
+  ('speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\feat.params',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\feat.params',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isolat2.txt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isolat2.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\big-black\\__base__',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\big-black\\__base__',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\medium-white\\pretty.css',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\medium-white\\pretty.css',
+   'DATA'),
+  ('speech_recognition\\flac-linux-x86',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\speech_recognition\\flac-linux-x86',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isoamsb.txt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isoamsb.txt',
+   'DATA'),
+  ('docutils\\writers\\pep_html\\template.txt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\writers\\pep_html\\template.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isogrk4.txt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isogrk4.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isodia.txt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isodia.txt',
+   'DATA'),
+  ('docutils\\writers\\odf_odt\\styles.odt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\writers\\odf_odt\\styles.odt',
+   'DATA'),
+  ('certifi\\py.typed',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\certifi\\py.typed',
+   'DATA'),
+  ('docutils\\writers\\latex2e\\default.tex',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\writers\\latex2e\\default.tex',
+   'DATA'),
+  ('speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\variances',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\variances',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\big-white\\pretty.css',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\big-white\\pretty.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isoamsn.txt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isoamsn.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isoamsc.txt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isoamsc.txt',
+   'DATA'),
+  ('docutils\\writers\\html5_polyglot\\responsive.css',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\writers\\html5_polyglot\\responsive.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\mmlextra-wide.txt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\mmlextra-wide.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\s5-core.css',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\s5-core.css',
+   'DATA'),
+  ('speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\noisedict',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\noisedict',
+   'DATA'),
+  ('speech_recognition\\flac-linux-x86_64',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\speech_recognition\\flac-linux-x86_64',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\framing.css',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\framing.css',
+   'DATA'),
+  ('docutils\\writers\\html5_polyglot\\math.css',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\writers\\html5_polyglot\\math.css',
+   'DATA'),
+  ('docutils\\writers\\html4css1\\template.txt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\writers\\html4css1\\template.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\pretty.css',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\pretty.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\xhtml1-lat1.txt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\xhtml1-lat1.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isomscr.txt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isomscr.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isoamsa.txt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isoamsa.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\mmlextra.txt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\mmlextra.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isomscr-wide.txt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isomscr-wide.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\outline.css',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\outline.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isonum.txt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isonum.txt',
+   'DATA'),
+  ('speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\README',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\README',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\slides.js',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\slides.js',
+   'DATA'),
+  ('docutils\\writers\\latex2e\\docutils.sty',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\writers\\latex2e\\docutils.sty',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isomopf-wide.txt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isomopf-wide.txt',
+   'DATA'),
+  ('speech_recognition\\pocketsphinx-data\\en-US\\language-model.lm.bin',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\speech_recognition\\pocketsphinx-data\\en-US\\language-model.lm.bin',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\mmlalias.txt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\mmlalias.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\README.txt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\README.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\README.txt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\README.txt',
+   'DATA'),
+  ('docutils\\writers\\latex2e\\xelatex.tex',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\writers\\latex2e\\xelatex.tex',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\big-white\\framing.css',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\big-white\\framing.css',
+   'DATA'),
+  ('speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\means',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\means',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\s5defs.txt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\s5defs.txt',
+   'DATA'),
+  ('speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\transition_matrices',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\transition_matrices',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\small-black\\pretty.css',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\small-black\\pretty.css',
+   'DATA'),
+  ('certifi\\cacert.pem',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\certifi\\cacert.pem',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\print.css',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\print.css',
+   'DATA'),
+  ('speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\mdef',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\mdef',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\slides.css',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\slides.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isolat1.txt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isolat1.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\small-white\\framing.css',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\small-white\\framing.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isogrk1.txt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isogrk1.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\small-white\\pretty.css',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\small-white\\pretty.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isocyr2.txt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isocyr2.txt',
+   'DATA'),
+  ('speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\sendump',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\sendump',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\opera.css',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\opera.css',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\small-black\\__base__',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\small-black\\__base__',
+   'DATA'),
+  ('docutils\\writers\\latex2e\\titlingpage.tex',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\writers\\latex2e\\titlingpage.tex',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\xhtml1-symbol.txt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\xhtml1-symbol.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isotech.txt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isotech.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isoamso.txt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isoamso.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isogrk3.txt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isogrk3.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isogrk4-wide.txt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isogrk4-wide.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\medium-white\\framing.css',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\medium-white\\framing.css',
+   'DATA'),
+  ('docutils\\writers\\html5_polyglot\\template.txt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\writers\\html5_polyglot\\template.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isocyr1.txt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isocyr1.txt',
+   'DATA'),
+  ('speech_recognition\\pocketsphinx-data\\en-US\\LICENSE.txt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\speech_recognition\\pocketsphinx-data\\en-US\\LICENSE.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isobox.txt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isobox.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isomfrk-wide.txt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isomfrk-wide.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isogrk2.txt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isogrk2.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isoamsr.txt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isoamsr.txt',
+   'DATA'),
+  ('docutils\\writers\\html4css1\\html4css1.css',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\writers\\html4css1\\html4css1.css',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\big-black\\framing.css',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\big-black\\framing.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isopub.txt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isopub.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\medium-black\\pretty.css',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\medium-black\\pretty.css',
+   'DATA'),
+  ('speech_recognition\\pocketsphinx-data\\en-US\\pronounciation-dictionary.dict',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\speech_recognition\\pocketsphinx-data\\en-US\\pronounciation-dictionary.dict',
+   'DATA'),
+  ('speech_recognition\\flac-mac',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\speech_recognition\\flac-mac',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\medium-black\\__base__',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\medium-black\\__base__',
+   'DATA'),
+  ('docutils\\writers\\html5_polyglot\\plain.css',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\writers\\html5_polyglot\\plain.css',
+   'DATA'),
+  ('docutils\\writers\\html5_polyglot\\tuftig.css',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\writers\\html5_polyglot\\tuftig.css',
+   'DATA'),
+  ('speech_recognition\\flac-win32.exe',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\speech_recognition\\flac-win32.exe',
+   'DATA'),
+  ('docutils\\writers\\latex2e\\titlepage.tex',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\writers\\latex2e\\titlepage.tex',
+   'DATA'),
+  ('docutils\\writers\\pep_html\\pep.css',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\writers\\pep_html\\pep.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isomopf.txt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isomopf.txt',
+   'DATA'),
+  ('docutils\\writers\\html5_polyglot\\minimal.css',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\writers\\html5_polyglot\\minimal.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\xhtml1-special.txt',
+   'C:\\Users\\win '
+   '10\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\xhtml1-special.txt',
+   'DATA'),
+  ('attrs-23.1.0.dist-info\\METADATA',
+   'c:\\users\\win '
+   '10\\appdata\\local\\programs\\python\\python311\\lib\\site-packages\\attrs-23.1.0.dist-info\\METADATA',
+   'DATA'),
+  ('wheel-0.41.1.dist-info\\RECORD',
+   'c:\\users\\win '
+   '10\\appdata\\local\\programs\\python\\python311\\lib\\site-packages\\wheel-0.41.1.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools-65.5.0.dist-info\\LICENSE',
+   'c:\\users\\win '
+   '10\\appdata\\local\\programs\\python\\python311\\lib\\site-packages\\setuptools-65.5.0.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools-65.5.0.dist-info\\METADATA',
+   'c:\\users\\win '
+   '10\\appdata\\local\\programs\\python\\python311\\lib\\site-packages\\setuptools-65.5.0.dist-info\\METADATA',
+   'DATA'),
+  ('attrs-23.1.0.dist-info\\INSTALLER',
+   'c:\\users\\win '
+   '10\\appdata\\local\\programs\\python\\python311\\lib\\site-packages\\attrs-23.1.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('attrs-23.1.0.dist-info\\licenses\\LICENSE',
+   'c:\\users\\win '
+   '10\\appdata\\local\\programs\\python\\python311\\lib\\site-packages\\attrs-23.1.0.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('wheel-0.41.1.dist-info\\METADATA',
+   'c:\\users\\win '
+   '10\\appdata\\local\\programs\\python\\python311\\lib\\site-packages\\wheel-0.41.1.dist-info\\METADATA',
+   'DATA'),
+  ('wheel-0.41.1.dist-info\\INSTALLER',
+   'c:\\users\\win '
+   '10\\appdata\\local\\programs\\python\\python311\\lib\\site-packages\\wheel-0.41.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools-65.5.0.dist-info\\REQUESTED',
+   'c:\\users\\win '
+   '10\\appdata\\local\\programs\\python\\python311\\lib\\site-packages\\setuptools-65.5.0.dist-info\\REQUESTED',
+   'DATA'),
+  ('wheel-0.41.1.dist-info\\entry_points.txt',
+   'c:\\users\\win '
+   '10\\appdata\\local\\programs\\python\\python311\\lib\\site-packages\\wheel-0.41.1.dist-info\\entry_points.txt',
+   'DATA'),
+  ('setuptools-65.5.0.dist-info\\WHEEL',
+   'c:\\users\\win '
+   '10\\appdata\\local\\programs\\python\\python311\\lib\\site-packages\\setuptools-65.5.0.dist-info\\WHEEL',
+   'DATA'),
+  ('attrs-23.1.0.dist-info\\WHEEL',
+   'c:\\users\\win '
+   '10\\appdata\\local\\programs\\python\\python311\\lib\\site-packages\\attrs-23.1.0.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools-65.5.0.dist-info\\top_level.txt',
+   'c:\\users\\win '
+   '10\\appdata\\local\\programs\\python\\python311\\lib\\site-packages\\setuptools-65.5.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('attrs-23.1.0.dist-info\\RECORD',
+   'c:\\users\\win '
+   '10\\appdata\\local\\programs\\python\\python311\\lib\\site-packages\\attrs-23.1.0.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools-65.5.0.dist-info\\RECORD',
+   'c:\\users\\win '
+   '10\\appdata\\local\\programs\\python\\python311\\lib\\site-packages\\setuptools-65.5.0.dist-info\\RECORD',
+   'DATA'),
+  ('wheel-0.41.1.dist-info\\WHEEL',
+   'c:\\users\\win '
+   '10\\appdata\\local\\programs\\python\\python311\\lib\\site-packages\\wheel-0.41.1.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools-65.5.0.dist-info\\entry_points.txt',
+   'c:\\users\\win '
+   '10\\appdata\\local\\programs\\python\\python311\\lib\\site-packages\\setuptools-65.5.0.dist-info\\entry_points.txt',
+   'DATA'),
+  ('setuptools-65.5.0.dist-info\\INSTALLER',
+   'c:\\users\\win '
+   '10\\appdata\\local\\programs\\python\\python311\\lib\\site-packages\\setuptools-65.5.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('wheel-0.41.1.dist-info\\LICENSE.txt',
+   'c:\\users\\win '
+   '10\\appdata\\local\\programs\\python\\python311\\lib\\site-packages\\wheel-0.41.1.dist-info\\LICENSE.txt',
+   'DATA')],
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)

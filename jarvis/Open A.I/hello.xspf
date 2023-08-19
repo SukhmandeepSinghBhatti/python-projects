@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///D:/Coding/python%20projects/Real%20Projects/exe%20files/dist/Weekend.mp3</location>
+			<duration>260755</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/2%20Ghore%20%28%20Recreation%29%20Baani%20Sandhu%20ft%20Kamal%20khaira%20New%20Punjabi%20Songs%202020%20Latest%20Punjabi%20Song.mp3</location>
+			<duration>184293</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/295%20-%20Sidhu%20Moose%20Wala.mp3</location>
+			<title>295 (DjPunjab.CoM)</title>
+			<creator>Sidhu Moose Wala (DjPunjab.CoM)</creator>
+			<album>295 (DjPunjab.CoM)</album>
+			<image>file:///C:/Users/win%2010/AppData/Roaming/vlc/art/artistalbum/Sidhu%20Moose%20Wala%20%28DjPunjab.CoM%29/295%20%28DjPunjab.CoM%29/art.png</image>
+			<duration>272902</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/Aakad%20Ranjit%20Bawa%20Sunidhi%20Chauhan%20Gurmoh%20Bhalwan%20Singh%20Releasing%2027th%20Oct.mp3</location>
+			<duration>209449</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/AK47%20Wale%20Song%20Jagowale%20Jatha.mp3</location>
+			<duration>281573</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/Amrit%20Maan%20Baapu%20%28Official%20Video%29%20Desi%20Crew%20New%20Punjabi%20Songs%202021%20Latest%20Punjabi%20Songs%2020.mp3</location>
+			<duration>255111</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/apni%20akad%20ko%20kripya%20apni%20jeb%20mein%20rakhen%20_%20bata%20denge%20mere%20dost%20mere%20mitra%20_%204%20gaadi%20number%20matlab.mp3</location>
+			<duration>218662</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/BANDOOK%20%28Full%20Song%29%20Jass%20Manak%20%20Guri%20%20Kartar%20Cheema%20%20Geet%20MP3.mp3</location>
+			<duration>176117</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/BANDOOK%20%28Full%20Song%29%20Jass%20Manak%20_%20Guri%20_%20Kartar%20Cheema%20_%20Geet%20MP3.mp3</location>
+			<duration>176100</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/Battle%20of%20chamkaur%20Bhindranwale%20Full%20video%202015.mp3</location>
+			<duration>279196</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/Be%20Ready%20Ninja%20New%20Punjabi%20Songs%202021%20Chitta%20Kurta%20Pajama%20Loyia%20Kalliya%20Ninja%20Latest%20Songs%2020.mp3</location>
+			<duration>239568</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/Bullet%20%28Official%20Video%29%20Dhadi%20Jatha%20Gurpreet%20Singh%20Landran%20Wale%20Latest%20Punjabi%20Song%202018.mp3</location>
+			<duration>327314</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/Calaboose-Sidhu%20Moose%20Wala%20%28www.DjPunjab.Video%29.mp3</location>
+			<duration>319138</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/Chitta%20%28302%20Lagugi%29%20_%20Balkar%20Ankhila%20Ft.%20Manjinder%20Gulshan%20_%20New%20Punjabi%20Songs%202021_%20Finetouch.mp3</location>
+			<duration>588042</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/Chitta%20Kurta%20Dhol%20Mix%20Kanan%20Aujla%20Gurlez%20Akhtar%20Feat%20Lahoria%20Production%20Latest%20Remix%20Punjabi%20Son.mp3</location>
+			<duration>214256</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/CID%20Bass%20Boosted%20Dhadi%20Tarsem%20Singh%20Moranwali%20New%20Punjabi%20Songs%202019.mp3</location>
+			<duration>360097</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/Dabda%20Kithe%20Aa%20%28%20Full%20HD%29%20R%20Nait%20Ft.%20Gurlez%20Akhtar%20Mista%20Baaz%20New%20Punjabi%20Songs%202019.mp3</location>
+			<duration>251245</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/Daheru%20%28feat.%20Folk%20Soundz%29%20%28The%20First%20Police%20Encounter%29.mp3</location>
+			<duration>239986</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/Dark%20Love%20%28Full%20Video%29%20%20Sidhu%20Moosewala%20%20Intense%20%20Baljit%20Singh%20Deo%20%20Latest%20Punjabi%20Songs%202018.mp3</location>
+			<duration>610455</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/DEAR%20MAMA%20%28Full%20Video%29%20Sidhu%20Moose%20Wala%20Kidd%20HunnyPK%20Films%20%20GoldMedia%20%20Latest%20Punjabi%20Songs%202020.mp3</location>
+			<duration>395833</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/Death%20Route%20Lyrical%20%20PBX%201%20%20Sidhu%20Moose%20Wala%20%20Intense%20%20Latest%20Punjabi%20Songs%202018.mp3</location>
+			<duration>473880</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/Defaulter%28Full%20HD%29R%20Nait%20%26%20Gurlez%20AkhtarMista%20BaazNew%20Latest%20Songs%202019LatestSongs.mp3</location>
+			<duration>325276</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/Dekh%20Duniya%20Ae%20Machdi%20%5B%20slowed%20reverb%20%5D%20shubh%20linux%20lofi.mp3</location>
+			<duration>496666</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/Don%27t%20Look%20%284K%20Video%29%20Karan%20Aujla%20Rupan%20Bal%20Jay%20Trak%20Latest%20Punjabi%20Songs%202019%20%282%29.mp3</location>
+			<duration>249991</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/Don%27t%20Look%20%284K%20Video%29%20Karan%20Aujla%20Rupan%20Bal%20Jay%20Trak%20Latest%20Punjabi%20Songs%202019.mp3</location>
+			<duration>249991</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/Fauj%20-%20a%20-%20Khalsa%20Sukh%20Sandhu%20Beatinspector%20Latest%20Punjabi%20Song%202020.mp3</location>
+			<duration>153443</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/G%20CLASS%20%28Full%20GTA%20Video%29%20Sidhu%20Moose%20Wala%20%20Moosetape%20%20GTA%20Punjabi%20Video%202022%20Latest%20Punjabi%20Song.mp3</location>
+			<duration>520855</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/Game-Shooter%20Kahlon%20%28www.DjPunjab.Video%29.mp3</location>
+			<duration>286746</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/Hathyar%20_%20Sidhu%20Moose%20Wala%20%28Full%20Video%29%20Guri%20%20Kartar%20Chema%20%20Punjabi%20Songs%20%20Geet%20MP3.mp3</location>
+			<duration>375720</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/KAJLA%20%28Official%20Video%29%20Tarsem%20Jassar%20Wamiqa%20Gabbi%20Pav%20Dharia%20New%20Punjabi%20Songs%202020.mp3</location>
+			<duration>287529</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/kalgian%20wale%20pritam%20-%20Diljit%20Dosanjh.mp3</location>
+			<duration>272143</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/Kali%20Jotta%20-%20Ammy%20Virk%2C%20Sonam%20Bajwa%20Nikka%20Zaildar%202%20-%20Punjabi%20Song%20Lokdhun.mp3</location>
+			<duration>217704</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/Khalsa%20Diljit%20Dosanjh%20New%20Punjabi%20Official%20Song%20July%202016.mp3</location>
+			<duration>156577</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/LEGEND%20-%20SIDHU%20MOOSE%20WALA%20_%20The%20Kidd%20_%20Gold%20Media%20_%20Latest%20Punjabi%20Songs%202020.webm</location>
+			<duration>565608</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/LEVELS%20-%20Official%20Video%20%20Sidhu%20Moose%20Wala%20ft%20Sunny%20Malton%20%20The%20Kidd.mp3</location>
+			<duration>462744</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/Lootera%20%28Full%20HD%29%20R%20Nait%20Ft.Sapna%20Chaudhary%20Afsana%20Khan%20B2gether%20New%20Songs%20Jass%20Reco.mp3</location>
+			<duration>238994</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/Maa%20Gujri%20Karma%20Wali%20Hai%28Full%20Video%29%20%E0%A8%AE%20%E0%A8%97%E0%A8%9C%E0%A8%B0%20%E0%A8%95%E0%A8%B0%E0%A8%AE%20%E0%A8%B5%E0%A8%B2%20%E0%A8%B9%20Creator%20by%20Resham%20Rakhra.mp3</location>
+			<duration>242155</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/Malwa%20Block%20%28Official%20Video%29%20%20Sidhu%20Moose%20Wala%20%20Wazir%20Patar%20%20Hunny%20PK%20Films%20%20Moosetape.mp3</location>
+			<duration>524146</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/ME%20AND%20MY%20GIRLFRIEND%20%28Full%20Video%29%20Sidhu%20Moose%20Wala%20%20The%20Kidd%20%20Moosetape.mp3</location>
+			<duration>491928</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/New%20Dollar%20vs%20Roti%20Ranjit%20bawa%202015.mp3</location>
+			<duration>338155</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/New%20Punjabi%20Songs%202021%20Mexico%20Koka%20Karan%20Aujla%20%28Full%20Video%29%20Mahira%20Sharma%20Latest%20Punjabi%20Song.mp3</location>
+			<duration>216685</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/Panjab%20%28My%20Motherland%29%20Sidhu%20Moose%20Wala%20%20TheKidd%20%20NavkaranBrar%20%20GoldMedia%20%20New%20Punjabi%20Songs.mp3</location>
+			<duration>412133</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/Parahuna%20Title%20Song%20-%20Nachhatar%20Gill%20Mr.%20Wow%20Punjabi%20Songs%202018%20Kulwinder%20Billa%20Wamiqa%20G.mp3</location>
+			<duration>185599</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/Pathra%20nu%20dudh%20punjabi%20song%20Es%20geet%20nu%20poora%20sunno%20atte%20apne%20es%20geet%20baare%20apne%20vichaar%20deo.mp3</location>
+			<duration>246830</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/Punjab%20Bolda%20%28Full%20Video%29Ranjit%20BawaSukh%20BrarLovely%20NoorLatest%20Punjabi%20Song%202020.mp3</location>
+			<duration>311196</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/Santaan%20Di%20Jeep%20Tarli%20Digital%20Pritpal%20Singh%20Bargari%20Brand%20New%20Punjabi%20Song%202019.mp3</location>
+			<duration>310334</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/Shoot%20Da%20Order%20%28Original%29%20-%20Jagpal%20Sandhu%20Latest%20Songs%202020%20Vardhman%20Music.mp3</location>
+			<duration>286876</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/SIR%20JAAVE%20TA%20JAVE%20MERA%20SIKHI%20SIDAK%20NA%20JAAVE.mp3</location>
+			<duration>248737</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/SUMIT%20GOSWAMI%20-%20TORA%20%28OFFICIAL%20VIDEO%29KHATRIDEEPESH%20GOYALLATEST%20HARYANVI%20SONG%202020.mp3</location>
+			<duration>180244</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/Tankha%20%28Full%20Song%29%20Ranjit%20Bawa%20Latest%20Punjabi%20Songs%202015%20Speed%20Records.mp3</location>
+			<duration>183536</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/TEVAR-A-GOBIND%20-KAMBI%20RAJPURIA%20FT.RANDY%20J%20PROUD%20TO%20BE%20A%20SIKH%202%20FILM%20In%20cinemas%2029%20dec2017.mp3</location>
+			<duration>183640</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/TIBEYAN%20DA%20PUTT%20%28Full%20Video%29%20Sidhu%20Moose%20Wala%20%20The%20Kidd%20%20Gold%20Media%20%20Latest%20Punjabi%20Song%202020.mp3</location>
+			<duration>708552</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/We%20Rollin%20%28Official%20Audio%29%20-%20Shubh.mp3</location>
+			<duration>199164</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>52</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/songs/Weekend%20RANJIT%20BAWA%20%28Full%20Video%29%20Rav%20Hanjra%20Snappy%20New%20Punjabi%20Songs%202018%20White%20Hill%20Mus.mp3</location>
+			<duration>260754</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>53</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+		<vlc:item tid="37"/>
+		<vlc:item tid="38"/>
+		<vlc:item tid="39"/>
+		<vlc:item tid="40"/>
+		<vlc:item tid="41"/>
+		<vlc:item tid="42"/>
+		<vlc:item tid="43"/>
+		<vlc:item tid="44"/>
+		<vlc:item tid="45"/>
+		<vlc:item tid="46"/>
+		<vlc:item tid="47"/>
+		<vlc:item tid="48"/>
+		<vlc:item tid="49"/>
+		<vlc:item tid="50"/>
+		<vlc:item tid="51"/>
+		<vlc:item tid="52"/>
+		<vlc:item tid="53"/>
+	</extension>
+</playlist>
